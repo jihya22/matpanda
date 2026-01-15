@@ -37,7 +37,9 @@ You have **60 minutes** to complete all tasks. Good luck!
    - Updated CSV: `sales_with_revenue.csv` with `total_revenue` column
    - Plot image: `revenue_plot.png`
 ---
+
 Uploads are time-stamped by GitHub. Do not re-upload after deadline.
+
 ---
 
 
